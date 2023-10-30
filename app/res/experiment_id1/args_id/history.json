@@ -1,0 +1,30 @@
+{
+    "step": 128,
+    "imgpath": "aim/",
+    "matchlist": [
+        "PDF#37-1484",
+        "PDF#05-0665"
+    ],
+    "color": {
+        "PDF#37-1484": [
+            0,
+            0,
+            255
+        ],
+        "PDF#05-0665": [
+            0,
+            255,
+            0
+        ]
+    },
+    "experiment_id": "experiment_id1",
+    "args_id": "args_id",
+    "respath": "res\\experiment_id1\\args_id",
+    "dist_error": 2,
+    "angle_error": 20,
+    "PDF_dist_error": 0.05,
+    "PDF_angle_error": 0.03,
+    "img_num_w": 31,
+    "img_num_h": 31,
+    "data": "C:\\Users\\remember\\Desktop\\HRTEM\\app\\res\\experiment_id1\\args_id\\data.json"
+}
