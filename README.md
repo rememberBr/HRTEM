@@ -6,7 +6,7 @@
   cd app 
   python test.py
 ## refer
-  @article{ZHANG2023103402,
+  ```@article{ZHANG2023103402,
   title = {FFT pattern recognition of crystal HRTEM image with deep learning},
   journal = {Micron},
   volume = {166},
@@ -17,4 +17,4 @@
   url = {https://www.sciencedirect.com/science/article/pii/S0968432822001986},
   author = {Quan Zhang and Ru Bai and Bo Peng and Zhen Wang and Yangyi Liu},
   keywords = {High-resolution transmission electron microscope, Computer vision, Attention mechanism, Local contrast, Phase identification, Deep Learning}
-  }
+  }```
