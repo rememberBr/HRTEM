@@ -2,3 +2,6 @@
 
 ## Environment 
   Tensorflow==2.6.0, and corresponding versions of cuda and keras
+## usage
+  cd app 
+  python test.py
